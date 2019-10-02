@@ -1,6 +1,7 @@
 body {
 	background: #FAEBD7 url('../images/vintage-concrete.png');
 	color: #333;
+	font-family: 'Barlow', sans-serif;
 }
 
 a {
